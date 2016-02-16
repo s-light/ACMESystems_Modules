@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACME_AriaG25
+D ACME AriaG25 embededd linux board; ARM9 @ 400MHz Atmel AT91SAM9G25 SoC
+K ACME, Aria, G25, ARM9, Atmel, AT91SAM9G25, SoC, linux, embedded, network, ethernet, usb, spi, i2c, i2s, sd-card, adc, pwm
+F http://www.acmesystems.it/aria
+$ENDCMP
+#
+#End Doc Library
